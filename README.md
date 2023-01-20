@@ -22,9 +22,13 @@ export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 ```
 
 ### Instalacja bibliotek w systemie Ubuntu 22.10
+```
 sudo apt install patchelf python3-dev build-essential libssl-dev libffi-dev libxml2-dev libxslt1-dev zlib1g-dev  libglew-dev python3-pip libosmesa6-dev libgl1-mesa-glx libglfw3
+```
 
 ### Stworzenie środowiska
+```
 conda create --name t python=3.7
 conda activate t
 pip install -r requirements.txt
+```
