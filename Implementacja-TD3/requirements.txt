@@ -1,0 +1,70 @@
+absl-py==1.4.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+box2d-py==2.3.5
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cffi==1.15.1
+charset-normalizer==3.0.1
+cloudpickle==2.2.0
+cycler==0.11.0
+Cython==0.29.33
+d4rl-pybullet @ git+https://github.com/takuseno/d4rl-pybullet@fc09c4a5f82e6de48ff32f1b4f2af6031e6f4256
+debugpy @ file:///tmp/build/80754af9/debugpy_1637091426235/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+entrypoints @ file:///tmp/build/80754af9/entrypoints_1649908585034/work
+fasteners==0.18
+fonttools==4.38.0
+glfw==2.5.5
+-e git+https://github.com/openai/gym.git@6a04d49722724677610e36c1f92908e72f51da0c#egg=gym
+gym-notices==0.0.8
+gymnasium==0.27.0
+gymnasium-notices==0.0.1
+h5py==3.7.0
+idna==3.4
+imageio==2.24.0
+importlib-metadata==6.0.0
+ipykernel @ file:///opt/conda/conda-bld/ipykernel_1662361798230/work
+ipython @ file:///tmp/abs_94gruux8u8/croots/recipe/ipython_1659529858706/work
+jax-jumpy==0.2.0
+jedi @ file:///tmp/build/80754af9/jedi_1644299024593/work
+jupyter_client @ file:///croot/jupyter_client_1671703053786/work
+jupyter_core @ file:///opt/conda/conda-bld/jupyter_core_1664917302524/work
+kiwisolver==1.4.4
+matplotlib==3.5.3
+matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
+mujoco==2.3.1.post1
+mujoco-py==2.1.2.14
+nest-asyncio @ file:///croot/nest-asyncio_1672387112409/work
+numpy==1.21.6
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+packaging @ file:///croot/packaging_1671697413597/work
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.4.0
+prompt-toolkit @ file:///croot/prompt-toolkit_1672387306916/work
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pybullet==3.2.5
+pybulletgym @ git+https://github.com/benelot/pybullet-gym@bc68201c8101c4e30dde95f425647a0709ee2f29
+pycparser==2.21
+pygame==2.1.3.dev8
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+PyOpenGL==3.1.6
+pyparsing==3.0.9
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pyzmq @ file:///opt/conda/conda-bld/pyzmq_1657724186960/work
+requests==2.28.2
+Shimmy==0.2.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+swig==4.1.1
+torch==1.13.1
+torchvision==0.14.1
+tornado @ file:///opt/conda/conda-bld/tornado_1662061693373/work
+traitlets @ file:///croot/traitlets_1671143879854/work
+typing_extensions==4.4.0
+urllib3==1.26.14
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+zipp==3.11.0
